@@ -1,0 +1,24 @@
+GET http://localhost:8080/list3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-16T010311.200.json
+
+###
+
+GET http://localhost:8080/list2
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-16T010259.200.json
+
+###
+
+GET http://localhost:8080/list3
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-11-16T010252.200.json
+
+###
+
